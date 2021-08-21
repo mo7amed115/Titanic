@@ -1,4 +1,5 @@
 # Titanic
+Working on Anaconda Version 4.10.3 with Python Version 4.10.3
 The data has been split into two groups: 
 training set and test set .
 The training is set used to build The machine learning models.
